@@ -1,4 +1,4 @@
-package dev.ujhhgtg.reflekt
+package com.wcxlc.kimjaejiang.reflekt
 
 import java.util.concurrent.ConcurrentHashMap
 

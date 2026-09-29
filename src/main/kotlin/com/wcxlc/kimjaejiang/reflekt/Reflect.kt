@@ -1,16 +1,16 @@
 @file:Suppress("unused")
 
-package dev.ujhhgtg.reflekt
+package com.wcxlc.kimjaejiang.reflekt
 
-import dev.ujhhgtg.reflekt.reflected.InstanceReflectedConstructor
-import dev.ujhhgtg.reflekt.reflected.InstanceReflectedField
-import dev.ujhhgtg.reflekt.reflected.InstanceReflectedMethod
-import dev.ujhhgtg.reflekt.reflected.ReflectedConstructor
-import dev.ujhhgtg.reflekt.reflected.ReflectedField
-import dev.ujhhgtg.reflekt.reflected.ReflectedMethod
-import dev.ujhhgtg.reflekt.spec.ConstructorSpec
-import dev.ujhhgtg.reflekt.spec.FieldSpec
-import dev.ujhhgtg.reflekt.spec.MethodSpec
+import com.wcxlc.kimjaejiang.reflekt.reflected.InstanceReflectedConstructor
+import com.wcxlc.kimjaejiang.reflekt.reflected.InstanceReflectedField
+import com.wcxlc.kimjaejiang.reflekt.reflected.InstanceReflectedMethod
+import com.wcxlc.kimjaejiang.reflekt.reflected.ReflectedConstructor
+import com.wcxlc.kimjaejiang.reflekt.reflected.ReflectedField
+import com.wcxlc.kimjaejiang.reflekt.reflected.ReflectedMethod
+import com.wcxlc.kimjaejiang.reflekt.spec.ConstructorSpec
+import com.wcxlc.kimjaejiang.reflekt.spec.FieldSpec
+import com.wcxlc.kimjaejiang.reflekt.spec.MethodSpec
 import java.lang.reflect.Constructor
 import java.lang.reflect.Field
 import java.lang.reflect.Method

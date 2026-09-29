@@ -1,8 +1,8 @@
 @file:Suppress("unused")
 
-package dev.ujhhgtg.reflekt.spec
+package com.wcxlc.kimjaejiang.reflekt.spec
 
-import dev.ujhhgtg.reflekt.utils.toClass
+import com.wcxlc.kimjaejiang.reflekt.utils.toClass
 import kotlin.reflect.KClass
 
 abstract class Spec {

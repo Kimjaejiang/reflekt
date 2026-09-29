@@ -1,8 +1,8 @@
 @file:Suppress("unused")
 
-package dev.ujhhgtg.reflekt.spec
+package com.wcxlc.kimjaejiang.reflekt.spec
 
-import dev.ujhhgtg.reflekt.utils.toModifierSet
+import com.wcxlc.kimjaejiang.reflekt.utils.toModifierSet
 import java.lang.reflect.Field
 import kotlin.reflect.KClass
 

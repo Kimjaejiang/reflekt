@@ -1,6 +1,6 @@
 @file:Suppress("unused")
 
-package dev.ujhhgtg.reflekt.spec
+package com.wcxlc.kimjaejiang.reflekt.spec
 
 data object AnyType
 

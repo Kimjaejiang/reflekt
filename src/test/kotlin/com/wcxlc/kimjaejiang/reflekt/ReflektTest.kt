@@ -1,9 +1,9 @@
 @file:Suppress("unused", "USELESS_IS_CHECK")
 
-package dev.ujhhgtg.reflekt
+package com.wcxlc.kimjaejiang.reflekt
 
-import dev.ujhhgtg.reflekt.spec.AnyType
-import dev.ujhhgtg.reflekt.utils.Modifiers
+import com.wcxlc.kimjaejiang.reflekt.spec.AnyType
+import com.wcxlc.kimjaejiang.reflekt.utils.Modifiers
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Assertions.assertNotNull
 import org.junit.jupiter.api.Assertions.assertNull
