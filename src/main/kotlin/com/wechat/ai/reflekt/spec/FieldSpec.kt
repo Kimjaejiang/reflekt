@@ -1,8 +1,8 @@
 @file:Suppress("unused")
 
-package com.wcxlc.kimjaejiang.reflekt.spec
+package com.wechat.ai.reflekt.spec
 
-import com.wcxlc.kimjaejiang.reflekt.utils.toModifierSet
+import com.wechat.ai.reflekt.utils.toModifierSet
 import java.lang.reflect.Field
 import kotlin.reflect.KClass
 

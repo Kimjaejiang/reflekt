@@ -1,16 +1,16 @@
 @file:Suppress("unused")
 
-package com.wcxlc.kimjaejiang.reflekt
+package com.wechat.ai.reflekt
 
-import com.wcxlc.kimjaejiang.reflekt.reflected.InstanceReflectedConstructor
-import com.wcxlc.kimjaejiang.reflekt.reflected.InstanceReflectedField
-import com.wcxlc.kimjaejiang.reflekt.reflected.InstanceReflectedMethod
-import com.wcxlc.kimjaejiang.reflekt.reflected.ReflectedConstructor
-import com.wcxlc.kimjaejiang.reflekt.reflected.ReflectedField
-import com.wcxlc.kimjaejiang.reflekt.reflected.ReflectedMethod
-import com.wcxlc.kimjaejiang.reflekt.spec.ConstructorSpec
-import com.wcxlc.kimjaejiang.reflekt.spec.FieldSpec
-import com.wcxlc.kimjaejiang.reflekt.spec.MethodSpec
+import com.wechat.ai.reflekt.reflected.InstanceReflectedConstructor
+import com.wechat.ai.reflekt.reflected.InstanceReflectedField
+import com.wechat.ai.reflekt.reflected.InstanceReflectedMethod
+import com.wechat.ai.reflekt.reflected.ReflectedConstructor
+import com.wechat.ai.reflekt.reflected.ReflectedField
+import com.wechat.ai.reflekt.reflected.ReflectedMethod
+import com.wechat.ai.reflekt.spec.ConstructorSpec
+import com.wechat.ai.reflekt.spec.FieldSpec
+import com.wechat.ai.reflekt.spec.MethodSpec
 import java.lang.reflect.Constructor
 import java.lang.reflect.Field
 import java.lang.reflect.Method

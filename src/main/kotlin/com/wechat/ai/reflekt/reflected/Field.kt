@@ -1,8 +1,8 @@
 @file:Suppress("unused")
 
-package com.wcxlc.kimjaejiang.reflekt.reflected
+package com.wechat.ai.reflekt.reflected
 
-import com.wcxlc.kimjaejiang.reflekt.utils.makeAccessible
+import com.wechat.ai.reflekt.utils.makeAccessible
 import java.lang.reflect.Field
 
 open class BaseReflectedField(open val self: Field) {

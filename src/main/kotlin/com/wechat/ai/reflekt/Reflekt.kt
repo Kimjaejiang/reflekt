@@ -1,13 +1,13 @@
 @file:Suppress("unused", "NOTHING_TO_INLINE")
 
-package com.wcxlc.kimjaejiang.reflekt
+package com.wechat.ai.reflekt
 
-import com.wcxlc.kimjaejiang.reflekt.reflected.ReflectedConstructor
-import com.wcxlc.kimjaejiang.reflekt.reflected.ReflectedField
-import com.wcxlc.kimjaejiang.reflekt.reflected.ReflectedMethod
-import com.wcxlc.kimjaejiang.reflekt.spec.ConstructorSpec
-import com.wcxlc.kimjaejiang.reflekt.spec.FieldSpec
-import com.wcxlc.kimjaejiang.reflekt.spec.MethodSpec
+import com.wechat.ai.reflekt.reflected.ReflectedConstructor
+import com.wechat.ai.reflekt.reflected.ReflectedField
+import com.wechat.ai.reflekt.reflected.ReflectedMethod
+import com.wechat.ai.reflekt.spec.ConstructorSpec
+import com.wechat.ai.reflekt.spec.FieldSpec
+import com.wechat.ai.reflekt.spec.MethodSpec
 import kotlin.reflect.KClass
 
 inline fun <T : Any> KClass<T>.reflekt(): Reflect<T> = Reflect(java)

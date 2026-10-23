@@ -1,4 +1,4 @@
-package com.wcxlc.kimjaejiang.reflekt
+package com.wechat.ai.reflekt
 
 import java.util.concurrent.ConcurrentHashMap
 

@@ -1,6 +1,6 @@
 @file:Suppress("unused")
 
-package com.wcxlc.kimjaejiang.reflekt.reflected
+package com.wechat.ai.reflekt.reflected
 
 import java.lang.reflect.Constructor
 

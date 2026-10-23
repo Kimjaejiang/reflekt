@@ -1,4 +1,4 @@
-package com.wcxlc.kimjaejiang.reflekt.utils
+package com.wechat.ai.reflekt.utils
 
 import java.lang.invoke.MethodType
 import java.lang.reflect.Method
